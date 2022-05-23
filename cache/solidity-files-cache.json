@@ -1,0 +1,147 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/user/decentralizedBridge/contracts/BridgeBsc.sol": {
+      "lastModificationDate": 1653283741994,
+      "contentHash": "e4e6be7c38645d9aee1b95638f19be5e",
+      "sourceName": "contracts/BridgeBsc.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BridgeBsc"
+      ]
+    },
+    "/home/user/decentralizedBridge/contracts/BridgeEth.sol": {
+      "lastModificationDate": 1653283744706,
+      "contentHash": "e1e2f11b4fd846426a2d483761ce6e6f",
+      "sourceName": "contracts/BridgeEth.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BridgeEth"
+      ]
+    },
+    "/home/user/decentralizedBridge/contracts/ServiceManagerBsc.sol": {
+      "lastModificationDate": 1653051345356,
+      "contentHash": "59a4647df2dc4c074bee53a6a56d6cf3",
+      "sourceName": "contracts/ServiceManagerBsc.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BridgeBscImport",
+        "ServiceManagerBsc"
+      ]
+    },
+    "/home/user/decentralizedBridge/contracts/ServiceManagerEth.sol": {
+      "lastModificationDate": 1653051354196,
+      "contentHash": "475efda201fdcd6c373e122bfcac4f3a",
+      "sourceName": "contracts/ServiceManagerEth.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BridgeEthImport",
+        "ServiceManagerEth"
+      ]
+    }
+  }
+}
